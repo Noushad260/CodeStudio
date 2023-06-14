@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="27.486" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Customer" name="Title of your scenario" time="27.083">
+<system-out><![CDATA[
+Given Launch The Browser....................................................passed
+And Navigate URL "http://localhost:8888/"...................................passed
+When Insert Valid Cradencial username "admin" password "razamd260@G"........passed
+And Click On Login Icon.....................................................passed
+Then click on Lead Module...................................................passed
+And Create lead.............................................................passed
+And Insert lastname "Ansari"  company "TestYantara".........................passed
+And Save Lead...............................................................passed
+And Logout Application......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
